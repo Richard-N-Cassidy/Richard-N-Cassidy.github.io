@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-
+title: Richard N. Cassidy
 first_name: Richard
 middle_name: N.
 last_name: Cassidy
-title: Ph.D. Candidate
+role: Ph.D. Candidate
 Institution: Van Andel Institute
 contact_note: #skip for now
 email: #skip for now
